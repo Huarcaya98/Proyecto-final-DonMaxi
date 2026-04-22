@@ -1,33 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\GEORGE\\ProyectoFinalDonMaxi\\Proyecto\\Proyecto.csproj": {}
+    "C:\\Users\\juanp\\OneDrive\\Desktop\\proyectoROJAS\\Proyecto-final-DonMaxi\\Proyecto\\Proyecto.csproj": {}
   },
   "projects": {
-    "D:\\Users\\GEORGE\\ProyectoFinalDonMaxi\\Proyecto\\Proyecto.csproj": {
+    "C:\\Users\\juanp\\OneDrive\\Desktop\\proyectoROJAS\\Proyecto-final-DonMaxi\\Proyecto\\Proyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\GEORGE\\ProyectoFinalDonMaxi\\Proyecto\\Proyecto.csproj",
+        "projectUniqueName": "C:\\Users\\juanp\\OneDrive\\Desktop\\proyectoROJAS\\Proyecto-final-DonMaxi\\Proyecto\\Proyecto.csproj",
         "projectName": "Proyecto",
-        "projectPath": "D:\\Users\\GEORGE\\ProyectoFinalDonMaxi\\Proyecto\\Proyecto.csproj",
-        "packagesPath": "C:\\Users\\GEORGE\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\GEORGE\\ProyectoFinalDonMaxi\\Proyecto\\obj\\",
+        "projectPath": "C:\\Users\\juanp\\OneDrive\\Desktop\\proyectoROJAS\\Proyecto-final-DonMaxi\\Proyecto\\Proyecto.csproj",
+        "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juanp\\OneDrive\\Desktop\\proyectoROJAS\\Proyecto-final-DonMaxi\\Proyecto\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\GEORGE\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
