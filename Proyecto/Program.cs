@@ -15,8 +15,20 @@ class Program
         double[] carSubtotal=new double[50];
         int[] carCantidades= new int[50];
 
-    
-        Console.WriteLine("Base Main - Proyecto");
+        bool continuar = true;
 
+        while (continuar)
+        {
+            Console.Clear();
+            Console.WriteLine("--- SISTEMA DE VENTAS ---");
+            Console.WriteLine("1. Ver Catálogo y Comprar");
+            Console.WriteLine("2. Ver Carrito");
+            Console.WriteLine("3. Eliminar Producto del Carrito");
+            Console.WriteLine("4. Pagar y Generar Voucher");
+            Console.WriteLine("5. Salir");
+            Console.Write("Seleccione una opción: ");
+            int opcion = int.Parse(Console.ReadLine());
+        }
+        Console.WriteLine("Base Main - Proyecto");
     }
 }
